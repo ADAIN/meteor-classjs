@@ -6,7 +6,7 @@
 Package.describe({
   name: 'adain:classjs',
   summary: 'Class JS https://classjs.readthedocs.org/en/latest/index.html',
-  version: '1.0.2',
+  version: '1.0.3',
   git: 'https://github.com/ADAIN/meteor-classjs.git'
 });
 
