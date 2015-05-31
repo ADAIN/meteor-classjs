@@ -10,7 +10,7 @@ var VERSION = '1.0';
 var ORIGINAL = Class;
 
 // creating global class variable
-var Class = function (obj) {
+Class = function (obj) {
   obj = obj || {};
   // call initialize if given
   var constructor = function () {
